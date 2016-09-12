@@ -1,0 +1,10 @@
+.jumbotron{
+  text-align:center;
+  background-color: #191970;
+  color: white;
+}
+
+.navigation a {
+  background-color: white;
+  color: #191970
+}
